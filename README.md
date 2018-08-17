@@ -1,4 +1,11 @@
-# samarth.github.io
-## My Webpage - Created on 17/08/2018
+# Education
+## Undergraduate Studies
 
-I am a final year B.Tech Undergraduate student in NITK Surathkal, India.
+National Institute of Technology, Karnataka, Surathkal
+CGPA = 9.13/10
+
+## Pre-University Education
+
+R.V P.U College, Bengaluru
+Percentage Scored: 97.16%
+
