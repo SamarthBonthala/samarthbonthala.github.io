@@ -1,7 +1,15 @@
-Undergraduate Student at NITK Surathkal
+Associate Engineer @ Qualcomm India Pvt Ltd
+
+Qualcomm Bangalore Design Centre
 
 # Interests
 
-Analog Design
+## Digital Design
+## ASIC Verification
 
-Communication Systems
+# Skills
+
+## Verilog
+## System Verilog
+## Fundamentals of Universal Verification Methodology (UVM)
+
